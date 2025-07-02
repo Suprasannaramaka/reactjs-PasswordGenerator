@@ -1,3 +1,6 @@
+This is the PasswordGenerator App created to generate passwords with aplabets,numbers,special characters.We have included  numbers and special characters to create a strong and unique passwords with length as much as you require.The password that has been created can also be copied to clipboard which makes work easier i.e., rather than writing the whole password we can just copy it and enjoy the process without any husle.This app has been created with reat js library,js,css,html which makes UI and code easy to understand without any complexities.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
